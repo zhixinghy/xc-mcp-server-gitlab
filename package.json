@@ -1,6 +1,6 @@
 {
   "name": "mcp-gitlab-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "GitLab MCP Server - 用于创建 GitLab Merge Request 的 Model Context Protocol 服务器",
   "main": "index.js",
   "type": "module",
